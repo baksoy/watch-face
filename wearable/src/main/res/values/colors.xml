@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#00A9EE</color>
+    <color name="digital_text_white">#ffffff</color>
+    <color name="digital_text_light_blue">#DCEFF6</color>
+    <color name="text_color">#455A64</color>
+    <color name="text_color_ambient">#EEEEEE</color>
+    <color name="background_color">#02B3E4</color>
+    <color name="background_color_ambient">#333333</color>
+    <color name="temperature_color">#CCCCCC</color>
+</resources>
